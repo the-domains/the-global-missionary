@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '-The Bible is the infallible word of God and is His holy and inspired Word.'
-datePublished: '2016-03-25T19:38:45.802Z'
-dateModified: '2016-03-25T19:36:00.815Z'
+datePublished: '2016-03-25T19:41:09.071Z'
+dateModified: '2016-03-25T19:38:53.946Z'
 title: What we believe
 author: []
 sourcePath: _posts/2016-03-25-the-bible-is-the-infallible-word-of-god-and-is-his-holy-an.md
