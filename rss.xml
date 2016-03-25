@@ -4,8 +4,15 @@
         <description><![CDATA[The Global Missionary]]></description>
         <link>https://thegrid.ai/the-global-missionary/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 19:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 19:17:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-global-missionary/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Who we are:</p>]]></description>
+            <link>https://thegrid.ai/the-global-missionary/who-we-are/index.html</link>
+            <guid isPermaLink="false">d9dfadb5-f0ab-4546-9210-9c9948af2214</guid>
+            <pubDate>Fri, 25 Mar 2016 19:17:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/135da6aa-72cc-4593-9dc5-248de5f7c5ae.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/the-global-missionary/the-bible-is-the-infallible-word-of-god-and-is-his-holy-an/index.html</link>
             <guid isPermaLink="false">e4543db5-d724-42b1-881a-b348661ae6f1</guid>
             <pubDate>Fri, 25 Mar 2016 19:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Who we are:</p>]]></description>
-            <link>https://thegrid.ai/the-global-missionary/who-we-are/index.html</link>
-            <guid isPermaLink="false">d9dfadb5-f0ab-4546-9210-9c9948af2214</guid>
-            <pubDate>Fri, 25 Mar 2016 18:40:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
