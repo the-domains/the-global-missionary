@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: • The Bible is the infallible Word of God and is His holy and inspired Word.
-datePublished: '2016-03-25T19:15:30.173Z'
-dateModified: '2016-03-25T19:15:04.078Z'
+description: '• There is one God, in which exists three persons — the Father, the Son and the Holy Spirit. This is a mystery and cannot be understood but must be accepted through faith.'
+datePublished: '2016-03-25T19:21:42.413Z'
+dateModified: '2016-03-25T19:20:36.902Z'
 title: What we believe
 author: []
 sourcePath: _posts/2016-03-25-the-bible-is-the-infallible-word-of-god-and-is-his-holy-an.md
@@ -22,11 +22,9 @@ url: the-bible-is-the-infallible-word-of-god-and-is-his-holy-an/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba3734e6-be6c-47ea-bf45-80e7284f3242.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a4861f-1862-4981-a38e-ab5b880b5cd8.jpg)
 
-## • The Bible is the infallible Word of God and is His holy and inspired Word.  
-
-* The Bible is the infallible word of God and is His holy and inspired Word.
+* The Bible is the infallible word of God and is His holy and inspired Word.  
 
 • There is one God, in which exists three persons --- the Father, the Son and the Holy Spirit. This is a mystery and cannot be understood but must be accepted through faith.
 
@@ -37,3 +35,4 @@ All men and women are sinners and thus are separated and face judgment from God 
 We, as Christians, are called to holy living through submission to our Lord. We are to be a light unto the world and as such are called upon to address the physical, mental and spiritual needs of our fellow men and women.
 
 * We are called as Christ's disciples to share the Good News with all the world regardless of race, color, creed or religion. We are to work tirelessly upon our Lord's behalf, heeding His calling and helping to accomplish His mission and purpose in our lives.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3738ee46-9a14-4225-869f-14b7450e5593.jpg)
