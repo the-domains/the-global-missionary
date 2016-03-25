@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: • The Bible is the infallible Word of God and is His holy and inspired Word.
-datePublished: '2016-03-25T18:57:58.553Z'
-dateModified: '2016-03-25T18:57:41.452Z'
-title: ''
+datePublished: '2016-03-25T19:09:59.588Z'
+dateModified: '2016-03-25T19:02:45.129Z'
+title: What we believe
 author: []
+sourcePath: _posts/2016-03-25-the-bible-is-the-infallible-word-of-god-and-is-his-holy-an.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-the-bible-is-the-infallible-word-of-god-and-is-his-holy-an.md
-published: true
 url: the-bible-is-the-infallible-word-of-god-and-is-his-holy-an/index.html
 _type: Article
 
