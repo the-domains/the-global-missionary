@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Global Missionary]]></title>
         <description><![CDATA[The Global Missionary]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-global-missionary/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 18:21:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 18:41:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-global-missionary/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Who we are:</p>]]></description>
+            <link>https://thegrid.ai/the-global-missionary/who-we-are/index.html</link>
+            <guid isPermaLink="false">d9dfadb5-f0ab-4546-9210-9c9948af2214</guid>
+            <pubDate>Fri, 25 Mar 2016 18:40:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/135da6aa-72cc-4593-9dc5-248de5f7c5ae.jpg">]]></description>
-            <link>undefined52546b04-7279-48ec-9acf-86b4e89ca9e4/index.html</link>
+            <link>https://thegrid.ai/the-global-missionary/52546b04-7279-48ec-9acf-86b4e89ca9e4/index.html</link>
             <guid isPermaLink="false">52546b04-7279-48ec-9acf-86b4e89ca9e4</guid>
             <pubDate>Fri, 25 Mar 2016 18:21:18 GMT</pubDate>
         </item>
