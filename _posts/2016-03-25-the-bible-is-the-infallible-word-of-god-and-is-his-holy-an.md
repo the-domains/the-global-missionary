@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: '• There is one God, in which exists three persons — the Father, the Son and the Holy Spirit. This is a mystery and cannot be understood but must be accepted through faith.'
-datePublished: '2016-03-25T19:23:23.700Z'
-dateModified: '2016-03-25T19:21:45.380Z'
+description: '-The Bible is the infallible word of God and is His holy and inspired Word.'
+datePublished: '2016-03-25T19:25:11.144Z'
+dateModified: '2016-03-25T19:24:03.584Z'
 title: What we believe
 author: []
 sourcePath: _posts/2016-03-25-the-bible-is-the-infallible-word-of-god-and-is-his-holy-an.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a4861f-1862-4981-a38e-ab5b880b5cd8.jpg)
 
--The Bible is the infallible word of God and is His holy and inspired Word.  
+-The Bible is the infallible word of God and is His holy and inspired Word.
 
 -There is one God, in which exists three persons --- the Father, the Son and the Holy Spirit. This is a mystery and cannot be understood but must be accepted through faith.
 
